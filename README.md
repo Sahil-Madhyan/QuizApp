@@ -6,13 +6,17 @@
 ## Screenshots
 
 ### Splash Screen
-![SplashScreen](https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/SplashScreen.jpg?raw=true)
+<img src="https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/SplashScreen.jpg" alt = "SplashScreen" width="25%" />
+
 ### Login
-![Login](https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/Login.jpg?raw=true)
+<img src="https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/Login.jpg" alt = "Login" width="25%" />
+
 ### Dashboard
-![Dashboard](https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/Dashboard.jpg?raw=true)
+<img src="https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/Dashboard.jpg" alt = "Dashboard" width="25%" />
+
 ### Quiz
-![Quiz](https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/Quiz.jpg?raw=true)
+<img src="https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/Quiz.jpg" alt = "Quiz" width="25%" />
+
 ### Restart Quiz
-![RestartQuiz](https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/RestartQuiz.jpg?raw=true)
+<img src="https://github.com/Sahil-Madhyan/QuizApp/blob/main/screenshots/RestartQuiz.jpg" alt = "Restart Quiz" width="25%" />
 
