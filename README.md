@@ -23,4 +23,5 @@ Quiz apps are great for testing your knowledge, having fun and learning somethin
 
 - [@Sahil Madhyan](https://github.com/Sahil-Madhyan)
 - [@Siddhant Kodolkar](https://github.com/SiddhantKodolkar)
+- [@Shalini Mirani](https://github.com/Shalini-Mirani)
 
